@@ -6,7 +6,7 @@
 
 -- Insert employees
 INSERT INTO employees (firebase_uid, paychex_id, first_name, last_name, email, phone, position, is_admin) VALUES
-('EdkK1ZljtmemwCpa1qGCl02e8Uj2', '50001', 'Admin', 'Admin', 'wcac.systems.engineer@gmail.com', '000-000-0000', 'Administrator', true),
+('bMRqArEVTIaYDFMHBtkNshq5JoC3', '50001', 'Admin', 'Admin', 'markrobertson67@gmail.com', '000-000-0000', 'Administrator', true),
 (NULL, '502', 'Jane', 'Smith', 'jane.smith@example.com', '732-555-5678', 'Driver, Facility', false);
 
 -- Insert timecards for Jane Smith (Nurse)
