@@ -1,7 +1,6 @@
 // Proprietary Software License
-// Copyright (c) 2024 Mark Robertson
+// Copyright (c) 2025 Mark Robertson
 // See LICENSE.txt file for details.
-
 
 
 const express = require("express");

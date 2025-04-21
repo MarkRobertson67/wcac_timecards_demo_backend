@@ -1,5 +1,5 @@
 // Proprietary Software License
-// Copyright (c) 2024 Mark Robertson
+// Copyright (c) 2025 Mark Robertson
 // See LICENSE.txt file for details.
 
 // DEPENDENCIES
@@ -45,7 +45,7 @@ app.get("/", (req, res) => {
     const htmlContent = `
         <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
             <p style="text-align: center; font-size: 24px;">
-                Welcome to the Demo Timecards App<strong>Back-end</strong>
+                Welcome to the Demo Timecards App <strong>Back-end</strong>
             </p>
         </div>
     `;

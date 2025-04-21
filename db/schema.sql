@@ -1,13 +1,11 @@
 -- Proprietary Software License
--- Copyright (c) 2024 Mark Robertson
+-- Copyright (c) 2025 Mark Robertson
 -- See LICENSE.txt file for details.
-
 
 
 --  Drop tables if they exist
 DROP TABLE IF EXISTS timecards;
 DROP TABLE IF EXISTS employees;
-
 
 
 -- Drop ENUM types if they exist

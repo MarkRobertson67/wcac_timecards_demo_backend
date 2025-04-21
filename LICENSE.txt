@@ -1,5 +1,5 @@
 Proprietary Software License
-Version 1.0.0  and later
+Version 1.0.0 and later
 Copyright (c) 2025 Mark Robertson
 
 All rights reserved.

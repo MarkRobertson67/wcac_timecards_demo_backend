@@ -3,7 +3,6 @@
 -- See LICENSE.txt file for details.
 
 
-
 -- Insert employees
 INSERT INTO employees (firebase_uid, paychex_id, first_name, last_name, email, phone, position, is_admin) VALUES
 ('bMRqArEVTIaYDFMHBtkNshq5JoC3', '50001', 'Admin', 'Admin', 'markrobertson67@gmail.com', '000-000-0000', 'Administrator', true),
@@ -30,4 +29,3 @@ VALUES
 (2, '2024-11-08', 'Facility', NULL, NULL, '08:00', '12:00', 'Facility', NULL, NULL, '12:30', '16:00', NULL, '07:30', 'submitted'),
 (2, '2024-11-11', 'Driving', '07:00', '10:00', NULL, NULL, 'Driving', '10:30', '15:00', NULL, NULL, '07:30', NULL, 'active'),
 (2, '2024-11-12', 'Facility', NULL, NULL, '08:00', '12:00', 'Facility', NULL, NULL, '12:30', '16:00', NULL, '07:30', 'active');
-
